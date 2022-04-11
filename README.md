@@ -1,3 +1,7 @@
+# Brief intro
+
+This project demonstrats usage of Routes, Route and Link from react-router-dom dependency. This project also shows the implementation of icons from react-icons dependency.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
